@@ -14,6 +14,6 @@ const CONFIG = {
     max2: "Screenshot_20240403_182120.jpg",
     max3: "Screenshot_20240413_195809.jpg",
     max4: "Screenshot_2024_0413_002455.png",
-    max5: "IMG_20240329_193111.jpg",
-    max6: "IMG_20240328_195119_585.jpg",
+    max5: "IMG_20240328_195119_585.jpg",
+    max6: "IMG_20240329_193111.jpg",
 }
